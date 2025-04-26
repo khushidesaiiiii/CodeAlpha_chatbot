@@ -1,6 +1,4 @@
-Here’s a clean `README.md` file that explains both the files you uploaded:
 
----
 
 # Chatbot Projects
 
